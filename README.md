@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inhuu
-- 👀 I’m interested in C#
+- 👀 I’m interested in Phantom Forces (Roblox FPS)
 - 🌱 I’m currently learning C#, Python, C++
 - 💞️ I’m looking to collaborate on idk?
 - 📫 How to reach me bruh
